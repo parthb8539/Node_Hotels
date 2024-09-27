@@ -1,0 +1,11 @@
+{
+  "name": "node_tut",
+  "version": "1.0.0",
+  "description": "This is basics of nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parth Bhumkar",
+  "license": "ISC"
+}
